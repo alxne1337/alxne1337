@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, my name is valeriy and i'm currently a 3rd grade of Voronezh State University
+### Trying to learn programming, especially Python. One day wanna be a backend dev 
 
 <!--
 **alxne1337/alxne1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
