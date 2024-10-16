@@ -1,4 +1,4 @@
-### Hi, my name is valeriy and i'm currently a 3rd grade of Voronezh State University
+### Hi, my name is valeriy and i'm currently a 4th grade of Voronezh State University
 ### Trying to learn programming, especially Python. One day wanna become a backend dev 
 
 <!--
